@@ -1,4 +1,6 @@
 # Many-to-many Object Relationships Lab
+#
+![Screenshot](lib/images/Screenshot6.png)
 
 Now that we have learned about several types of relationships it's time to build 
 one of our own. In this lab you will be creating a many-to many relationship in 
